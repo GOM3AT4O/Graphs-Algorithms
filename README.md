@@ -1,4 +1,4 @@
-# Graph Algorithms Benchmarking Suite
+# Graph Algorithms Benchmarking
 
 ![Java](https://img.shields.io/badge/Java-17-orange.svg?style=flat-square&logo=openjdk)
 ![Apache Maven](https://img.shields.io/badge/Maven-3.x-C71A36.svg?style=flat-square&logo=apache-maven)
