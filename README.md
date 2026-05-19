@@ -3,6 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-17-orange.svg?style=flat-square&logo=openjdk)
 ![Apache Maven](https://img.shields.io/badge/Maven-3.x-C71A36.svg?style=flat-square&logo=apache-maven)
 
+![Determined to Code](1.gif)
 ##  Project Overview
 
 This project is a Java-based algorithmic benchmarking suite designed to empirically evaluate the performance of fundamental graph algorithms. It stress-tests Minimum Spanning Tree (MST) and Single-Source Shortest Path (SSSP) implementations against massive graph structures (up to 12.5 million edges) to observe how edge density and topology affect computational execution time in practice.
